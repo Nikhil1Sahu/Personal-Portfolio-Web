@@ -70,8 +70,6 @@ My Approach:
 Driven by a passion for problem-solving and a commitment to excellence, I approach every project with creativity, enthusiasm, and attention to detail. Whether it's bringing a client's vision to life, optimizing code for performance, or troubleshooting bugs, I thrive in the dynamic challenges of software development, constantly pushing boundaries and raising the bar for quality.
 
 
-## Screenshots
-
-![Screenshot 2024-05-17 174209](https://github.com/ASTARAYYY/real-bot/assets/146921059/d6aff763-1c29-4612-b7fa-921df32a46ff)
-
+deployed :- 
+https://jerrysahuportfolio.netlify.app
 
